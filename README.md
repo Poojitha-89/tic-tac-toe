@@ -1,7 +1,7 @@
 
 # Tic Tac Toe Game using Python and Tkinter
 
-![Screenshot 2024-09-01 091336](https://github.com/user-attachments/assets/abfcc99f-1cac-4543-9526-ec65fee3c693)
+
 
 
 
